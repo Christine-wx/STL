@@ -15,24 +15,24 @@ struct eventpoll {
 	struct mutex      mtx;
 	wait_queue_head_t     wq;
 	wait_queue_head_t   poll_wait;
-	struct list_head    rdllist;   //就绪链表
-	struct rb_root      rbr;      //红黑树根节点 
+	struct list_head    rdllist;   //灏辩华閾捐〃
+	struct rb_root      rbr;      //绾㈤粦鏍戞牴鑺傜偣 
 	struct epitem* ovflist;
 };
 
-//用户数据载体
+//鐢ㄦ埛鏁版嵁杞戒綋
 typedef union epoll_data {
 	void* ptr;
 	int      fd;
 	uint32_t u32;
 	uint64_t u64;
 } epoll_data_t;
-//fd装载入内核的载体
+//fd瑁呰浇鍏ュ唴鏍哥殑杞戒綋
 struct epoll_event {
 	uint32_t     events;    /* Epoll events */
 	epoll_data_t data;      /* User data variable */
 };
-//三板斧api
+//涓夋澘鏂pi
 int epoll_create(int size);
 int epoll_ctl(int epfd, int op, int fd, struct epoll_event* event);
 int epoll_wait(int epfd, struct epoll_event* events,
