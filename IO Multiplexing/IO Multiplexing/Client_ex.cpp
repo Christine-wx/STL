@@ -1,10 +1,3 @@
-/*************************************************************************
-    > File Name: client.cpp
-    > Author: SongLee
-    > E-mail: lisong.shine@qq.com
-    > Created Time: 2016Äê04ÔÂ28ÈÕ ĞÇÆÚËÄ 23Ê±10·Ö15Ãë
-    > Personal Blog: http://songlee24.github.io/
- ************************************************************************/
 #include<netinet/in.h>   // sockaddr_in
 #include<sys/types.h>    // socket
 #include<sys/socket.h>   // socket
@@ -77,7 +70,7 @@ void Client::Connect()
 void Client::Send(string str)
 {
     PACKET_HEAD head;
-    head.length = str.size() + 1;   // ×¢ÒâÕâÀïĞèÒª+1
+    head.length = str.size() + 1;   // æ³¨æ„è¿™é‡Œéœ€è¦+1
     int ret1 = send(fd, &head, sizeof(head), 0);
     int ret2 = send(fd, str.c_str(), head.length, 0);
     if (ret1 < 0 || ret2 < 0)
