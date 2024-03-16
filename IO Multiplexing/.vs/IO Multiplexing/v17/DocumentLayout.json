@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\Epoll_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\select_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\Epoll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\poll_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Client_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\Client_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\select.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CE5FE06-9FA8-4629-BB44-A9421037AD88}|IO Multiplexing\\IO Multiplexing.vcxproj|solutionrelative:IO Multiplexing\\poll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client_ex.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Client_ex.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\Client_ex.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Client_ex.cpp",
+              "RelativeToolTip": "IO Multiplexing\\Client_ex.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T10:02:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Epoll_ex.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll_ex.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\Epoll_ex.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll_ex.cpp",
+              "RelativeToolTip": "IO Multiplexing\\Epoll_ex.cpp",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAswIIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:59:55.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "poll_ex.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll_ex.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\poll_ex.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll_ex.cpp",
+              "RelativeToolTip": "IO Multiplexing\\poll_ex.cpp",
+              "ViewState": "AQIAANQAAAAAAAAAAAAAANQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:59:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Epoll.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\Epoll.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\Epoll.cpp",
+              "RelativeToolTip": "IO Multiplexing\\Epoll.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:58:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "poll.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\poll.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\poll.cpp",
+              "RelativeToolTip": "IO Multiplexing\\poll.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:58:06.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "select_ex.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select_ex.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\select_ex.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select_ex.cpp",
+              "RelativeToolTip": "IO Multiplexing\\select_ex.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:57:10.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "select.cpp",
+              "DocumentMoniker": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select.cpp",
+              "RelativeDocumentMoniker": "IO Multiplexing\\select.cpp",
+              "ToolTip": "E:\\vs library\\C\u002B\u002B language\\IO Multiplexing\\IO Multiplexing\\select.cpp",
+              "RelativeToolTip": "IO Multiplexing\\select.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:54:23.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
